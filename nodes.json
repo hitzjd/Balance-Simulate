@@ -1,0 +1,54 @@
+{
+    "nodes": [
+        {
+            "capacity": 1191, 
+            "id": 0, 
+            "vsNum": 7
+        }, 
+        {
+            "capacity": 748, 
+            "id": 1, 
+            "vsNum": 4
+        }, 
+        {
+            "capacity": 692, 
+            "id": 2, 
+            "vsNum": 4
+        }, 
+        {
+            "capacity": 815, 
+            "id": 3, 
+            "vsNum": 5
+        }, 
+        {
+            "capacity": 1804, 
+            "id": 4, 
+            "vsNum": 11
+        }, 
+        {
+            "capacity": 1910, 
+            "id": 5, 
+            "vsNum": 11
+        }, 
+        {
+            "capacity": 1221, 
+            "id": 6, 
+            "vsNum": 7
+        }, 
+        {
+            "capacity": 163, 
+            "id": 7, 
+            "vsNum": 1
+        }, 
+        {
+            "capacity": 1683, 
+            "id": 8, 
+            "vsNum": 10
+        }, 
+        {
+            "capacity": 721, 
+            "id": 9, 
+            "vsNum": 4
+        }
+    ]
+}
